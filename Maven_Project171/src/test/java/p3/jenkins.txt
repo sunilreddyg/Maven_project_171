@@ -1,0 +1,35 @@
+Jenkins:-->
+
+	The leading open source automation server, 
+	Jenkins provides hundreds of plugins to support building, 
+	deploying and automating any project. 
+
+
+URL:--> https://jenkins.io/download/
+            => Select Operating system as Windows.
+            => System asks to download zip formatfile
+            => Unzip file to backup drive [After unzip we can find .exe file]
+            => it is executable file use double click to start installation
+            => Following installation until it ask secret password to enter
+            => Enter secret password and register for jenkins...
+
+
+Login to jenkins:-->
+
+	=> http://localhost:8080
+	=> Login with registered details...
+====================================================
+
+	=>Click on "create new job" at jenkins homepage.
+	=> Enter project name and select project type then click ok button
+
+
+
+
+
+
+
+
+
+
+	
