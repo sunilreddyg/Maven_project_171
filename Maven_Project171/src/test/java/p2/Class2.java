@@ -29,4 +29,10 @@ public class Class2
 	  {
 		System.out.println("email executed");  
 	  }
+	  
+	  @Test
+	  public void search()
+	  {
+		System.out.println("search executed");  
+	  }
 }
