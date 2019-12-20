@@ -8,7 +8,7 @@ public class Class3
 	@Test
 	public void method1()
 	{
-		System.out.println("method1 executed");
+		System.out.println("my method executed");
 	}
 
 }
